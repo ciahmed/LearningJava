@@ -15,16 +15,15 @@ public class Variables {
 
         int x; //Declaration
         x = 123; //Assignment
+        int y = 456; //Initialization
 
-        int z = 456; //Initialization
+        int myNumber = 100;
+        double myShoeSize = 9.5;
+        boolean thisStory = true;
+        char myInitial = 'A';
+        String myName = "Ahmed";
 
-        int a = 100;
-        double b = 2.2;
-        boolean c = false;
-
-        System.out.println(a*b);
-
-
+        System.out.println("Hello World!" + " This is " + myName);
 
     }
 }
