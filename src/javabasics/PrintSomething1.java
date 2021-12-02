@@ -1,6 +1,6 @@
 package javabasics;
 
-public class PrintSomething {
+public class PrintSomething1 {
 
     public static void main(String[] args) {
 
