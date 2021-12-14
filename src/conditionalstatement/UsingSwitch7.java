@@ -10,22 +10,22 @@ public class UsingSwitch7 {
 
         switch (day) {
             case "Sunday" :
-                System.out.println("This is Sunday today!");
+                System.out.println("This is " + day + " today!");
                 break;
             case "Monday" :
-                System.out.println("This is Monday today!");
+                System.out.println("This is " + day + " today!");
                 break;
             case "Tuesday" :
-                System.out.println("This is Tuesday today!");
+                System.out.println("This is " + day + " today!");
                 break;
             case "Wednesday" :
-                System.out.println("This is Wednesday today!");
+                System.out.println("This is " + day + " today!");
                 break;
             case "Thursday" :
-                System.out.println("This is Thursday today!");
+                System.out.println("This is " + day + " today!");
                 break;
             case "Friday" :
-                System.out.println("This is Friday today!");
+                System.out.println("This is " + day + " today!");
                 break;
             default:
                 System.out.println("This is not a day Sorry!");

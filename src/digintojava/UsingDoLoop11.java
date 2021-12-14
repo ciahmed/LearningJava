@@ -10,7 +10,7 @@ public class UsingDoLoop11 {
         String name = "";
 
         do {
-            System.out.print("Please enter your name");
+            System.out.println("Please enter your name");
             name = scanner.nextLine();
         }while(name.isBlank());
 

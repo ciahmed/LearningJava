@@ -10,7 +10,7 @@ public class LetsDoMath5 {
         double d = -20.2;
 
         int x = Math.subtractExact(a,b);
-        double y = Math.sqrt(d);
+        double y = Math.sqrt(c);
 
         System.out.println(y);
 

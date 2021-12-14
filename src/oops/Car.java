@@ -17,11 +17,11 @@ public class Car {
     double price = 50000.00;
 
     public void drive() {
-        System.out.println("You drive the car");
+        System.out.println("This car run fast!");
     }
 
     public void brakes() {
-        System.out.println("You step on the brakes");
+        System.out.println("The car stopped when the light is red");
     }
 
 }

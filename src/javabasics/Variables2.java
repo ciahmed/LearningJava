@@ -4,7 +4,7 @@ public class Variables2 {
 
     public static void main(String[] args) {
 
-        //Variable is placeholder for a value.
+        //Variable is placeholder or container for a value.
         //Variable contains a value which act based on the data types.
 
         /*
